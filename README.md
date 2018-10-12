@@ -20,3 +20,4 @@ In this we will use apis (oneweatherapp and destination weather) which will info
 The data of all users will be stored in the azure database. We will build a machine learning model which will be trained using neural network  with features like rainfall, windspeed, coordinates to predict calamity. 
 
 
+P.S. If any further query of how any part of this project will be implemented, please contact me at ulgoury@gmail.com.
